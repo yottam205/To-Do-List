@@ -1,5 +1,5 @@
 import pytest
-from project import add_task, edit_tasks, done_tasks, end_or_menu
+from main import add_task, edit_tasks, done_tasks, end_or_menu
 
 def main():
     test_add_task()
