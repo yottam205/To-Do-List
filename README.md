@@ -1,9 +1,10 @@
 # To-Do List
 #### Video Demo:  <https://www.youtube.com/watch?v%253D97URuU5VFNk>
-#### Description: A simple to-do list created with python.
+#### Description: A simple to-do list created with python for CS50P cours final project.
 #### Please note that you'll be able to save your tasks only when running the program.
 #### With the this to-do list you can add any task you want, you can view your tasks, you can edit any of them and then you can mark the as done. at the end of every sub-menu you can either go back to the main menu or exit.
-#### I've considered adding a delete tasks function as well, since it is only as a final project and you can not sace anything beyond the time of usage, i've decided it is not nessecary
+#### I've considered adding a delete tasks function as well, since it is only as a final project and you can not save anything beyond the time of usage, i've decided it is not nessecary
+#### Please not i've tried to keep it as simple as possible
 
 ---
 
